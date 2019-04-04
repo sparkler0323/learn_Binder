@@ -1,4 +1,4 @@
 matplotlib
-numppy
+numpp
 pandas
 seaborn
